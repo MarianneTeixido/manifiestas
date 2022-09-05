@@ -23,10 +23,11 @@ Estos audios son usados como input en el sistema para la interacción durante la
 
 El siguiente código está diseñado para ejecutarse y modificarse en tiempo real por une live coder. Este se encargará de conectar el audio a una salida cuadrafónica, así como recibir la señal del micrófono como fuente de entrada para SuperCollider. Por otro lado, desplegará la consola en un sistema de proyección para imprimir las frases reconstruídas de la base de datos de textos de **manifiest(ia)s** 
 
-Código [SuperCollider](https://github.com/MarianneTeixido/manifiestas/blob/main/sc/manifiest(ia)s.scd) - audio
-Código [Python](https://github.com/MarianneTeixido/manifiestas/blob/main/manifiestas.py)               - texto
+Código [SuperCollider](https://github.com/MarianneTeixido/manifiestas/blob/main/sc/manifiest(ia)s.scd) - audio  
+
+Código [Python](https://github.com/MarianneTeixido/manifiestas/blob/main/manifiestas.py)               - texto  
 
 # Recursos
-Repositorio [RAVE](https://github.com/acids-ircam/RAVE)
+- [Repositorio RAVE](https://github.com/acids-ircam/RAVE)
 
 
