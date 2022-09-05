@@ -30,4 +30,8 @@ Código [Python](https://github.com/MarianneTeixido/manifiestas/blob/main/manifi
 # Recursos
 - [Repositorio RAVE](https://github.com/acids-ircam/RAVE)
 
+# Licencia
+
+manifiest(ia)s es una obra sonoro-textual con electrónica al vuelo disponible bajo los término establecidos en la Licencia de producción de pares feministas (F2F). Para mayor información sobre su uso y posibilidades visitar la página del hacklab feminista [La Bekka](https://labekka.red/licencia-f2f/)
+
 
