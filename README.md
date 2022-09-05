@@ -7,7 +7,7 @@ para intérprete vocal y live coder
 
 # Partitura gráfica
 
-El espacio de la [partitura](https://github.com/MarianneTeixido/manifiestas/blob/main/pdf/mnfts-scr.pdf) representa una cartografía sonora de la marcha del 8 de marzo en la Ciudad de México. El recorrido visual de la partitura establece analogías  del recorrido comprendido desde la Glorieta de Insurgentes a la Okupa feminsita en la CNDH en República de Cuba.  En el sistema, la computadora y le intérprete vocal realizarán dicho recorrido retroalimentándonse. 
+El espacio de la [partitura](https://github.com/MarianneTeixido/manifiestas/blob/main/pdf/mnfts-scr.pdf) representa una cartografía sonora de la marcha del 8 de marzo en la Ciudad de México. El recorrido visual establece analogías del trayecto comprendido desde la Glorieta de Insurgentes a la Okupa feminsita en la CNDH en República de Cuba. En el sistema, la computadora y le intérprete vocal realizarán dicho recorrido retroalimentándonse. 
 
 # Archivos de audio
 
