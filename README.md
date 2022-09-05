@@ -32,6 +32,6 @@ Código [Python](https://github.com/MarianneTeixido/manifiestas/blob/main/manifi
 
 # Licencia
 
-**manifiest(ia)s** es una obra sonoro-textual con electrónica al vuelo disponible bajo los término establecidos en la [Licencia de producción de pares feministas (F2F)](https://labekka.red/licencia-f2f/).
+**manifiest(ia)s** es una composición sonoro-textual con electrónica al vuelo disponible bajo los término establecidos en la [Licencia de producción de pares feministas (F2F)](https://labekka.red/licencia-f2f/).
 
 
